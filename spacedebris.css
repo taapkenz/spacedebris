@@ -1,0 +1,32 @@
+#space-debris {
+  background-color: #f9f9f9;
+  padding: 3rem 1rem;
+}
+
+#space-debris h2 {
+  font-size: 2rem;
+  font-weight: 400;
+  margin-bottom: 1.5rem;
+}
+
+#space-debris p {
+  margin-bottom: 1.5rem;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+#space-debris h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+#space-debris ul {
+  list-style: disc;
+  margin-left: 1.5rem;
+}
+
+#space-debris li {
+  margin-bottom: 1rem;
+  font-size: 18px;
+  line-height: 1.6;
+}

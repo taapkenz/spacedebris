@@ -1,0 +1,65 @@
+/* Global styles */
+body {
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #333;
+	text-decoration: none;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+}
+
+nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+nav a {
+	margin: 0 10px;
+}
+
+section {
+	padding: 50px;
+}
+
+h2 {
+	font-weight: 400;
+	font-size: 32px;
+	margin-bottom: 30px;
+}
+
+p {
+	line-height: 1.6;
+	margin-bottom: 20px;
+}
+
+/* About Us page styles */
+#overview {
+	background-color: #f1f1f1;
+}
+
+#team {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.member {
+	flex-basis: calc(50% - 30px);
+	margin-bottom: 30px;
+}
+
+.member img {
+	width: 100%;
+	height: auto;
+	border-radius: 50%;
+	margin-bottom: 100}

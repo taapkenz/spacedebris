@@ -1,0 +1,69 @@
+/* Set the font family and size for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Set the background color of the page */
+  body {
+    background-color: #f2f2f2;
+  }
+  
+  /* Set the color of all links */
+  a {
+    color: #0077cc;
+  }
+  
+  /* Add padding and margin to headings */
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    padding-bottom: 0.25em;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Style images to have a max width of 100% */
+  img {
+    max-width: 100%;
+  }
+  
+  /* Set the width and height of the main navigation menu */
+  nav {
+    width: 100%;
+    height: 50px;
+  }
+  
+  /* Style the main navigation menu */
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    background-color: #111;
+  }
+  
+  /* Set the width and height of the footer */
+  footer {
+    width: 100%;
+    height: 50px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+  }
